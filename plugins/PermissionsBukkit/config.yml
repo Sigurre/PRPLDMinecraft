@@ -29,29 +29,24 @@ users:
     - admin
   sigurre:
     groups:
-    - default
+    - admin
     permissions:
       permissions.build=true: true
       permissions.build: true
   bravenewworld78:
     groups:
-    - default
+    - admin
     permissions:
       permissions.build=true: true
       permissions.build: true
   killerbean0:
     groups:
-    - default
+    - admin
     permissions:
       permissions.build: true
   roboashy:
     groups:
-    - default
-    permissions:
-      permissions.build: true
-  prpld02:
-    groups:
-    - default
+    - admin
     permissions:
       permissions.build: true
 groups:
